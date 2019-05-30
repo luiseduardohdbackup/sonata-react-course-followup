@@ -7,7 +7,7 @@ The intention of this material is to follow up the [ReactJS course by Stephen Gr
 ## Week 1
 * May 20 - 29, 2019
 * Sections 1 - 5, 4:05 hrs
-* Assignment May 30 - Jun 5 [Link](../assignment-1)
+* Assignment May 30 - Jun 5 [Link](./assignment-1)
 
 ## Week 2
 * May 30 - Jun 5, 2019

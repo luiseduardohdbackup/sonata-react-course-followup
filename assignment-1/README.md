@@ -34,4 +34,4 @@ read more about "setTimout" function in [MDN](https://developer.mozilla.org/en-U
 
 ## Example
 
-![alt text](../assets/app.png "App")
+![alt text](./assets/app.png "App")
