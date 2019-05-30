@@ -30,7 +30,7 @@ setTimeout(() => {
 read more about "setTimout" function in [MDN](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
 
 * Props
-- [ ] Send props to functional components to render text and styles∫
+- [ ] Send props to functional components to render text and styles
 
 * Styles
 - [ ] Add colors to calculator buttons
