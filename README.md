@@ -17,24 +17,29 @@ The intention of this material is to follow up the [ReactJS course by Stephen Gr
 ## Week 3
 * Jun 6 - Jun 12, 2019
 * Sections 11 - 13, 4:33 hrs
-* Assignment Jun 13 - 19
+* Assignment Jun 13 - 19 [Link](./assignment-3)
 
 ## Week 4
 * Jun 13 - Jun 19, 2019
-* Sections 14 - 16, 5:01 hrs
-* Assignment Jun 20 - 26
+* Sections 14, 1:09 hrs
+* Assignment Jun 20 - 26 [Link](./assignment-4)
 
 ## Week 5
-* Jun 20 - Jun 26, 2019
-* Sections 17 - 19, 2:56 hrs
+* Jun 20 - 26, 2019
+* Sections 15 - 16, 3:52 hrs
 * Assignment Jun 27 - Jul 3
 
 ## Week 6
 * Jun 27 - Jul 3, 2019
-* Sections 20 - 21, 4:35 hrs
+* Sections 17 - 19, 2:56 hrs
 * Assignment Jul 4 - 10
 
 ## Week 7
-* Jul 4 - 19, 2019
-* Sections 22 - 10, 4:05 hrs
+* Jul 4 - 10, 2019
+* Sections 20 - 21, 4:35 hrs
 * Assignment Jul 11 - 17
+
+## Week 8
+* Jul 11 - 17, 2019
+* Sections 22 - 10, 4:05 hrs
+* Assignment Jul 18 - 24
